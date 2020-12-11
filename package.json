@@ -1,6 +1,6 @@
 {
   "name": "poland-public-holidays",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "compute dates of public holidays in Poland",
   "main": "dist/poland-public-holidays.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "holidays",
     "easter"
   ],
+  "repository": "https://github.com/ngr900/poland-public-holidays",
   "author": "Kamil Szydlowski",
   "license": "MIT",
   "dependencies": {},
